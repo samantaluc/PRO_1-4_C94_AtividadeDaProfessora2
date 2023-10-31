@@ -142,35 +142,22 @@ const styles = StyleSheet.create({
         flex: 0.85
     },
     listContainer: {
-        backgroundColor: 'rgba(52, 52, 52, 0.5)',
-        justifyContent: "center",
-        marginLeft: 10,
-        marginRight: 10,
-        marginTop: 5,
-        borderRadius: 10,
-        padding: 10
+        backgroundColor: 'rgba(52, 52, 52, 0.5)',        justifyContent: "center",        marginLeft: 10,        marginRight: 10,
+        marginTop: 5,      borderRadius: 10,      padding: 10
     },
     cardTitle: {
-        fontSize: 20,
-        marginBottom: 10,
-        fontWeight: "bold",
-        color: "white"
+        fontSize: 20,       marginBottom: 10,       fontWeight: "bold",       color: "white"
     },
     cardText: {
         color: "white"
     },
     threatDetector: {
-        height: 10,
-        marginBottom: 10
+        height: 10,      marginBottom: 10
     },
     gifContainer: {
-        justifyContent: "center",
-        alignItems: "center",
-        flex: 1
+        justifyContent: "center",        alignItems: "center",        flex: 1
     },
     meteorDataContainer: {
-        justifyContent: "center",
-        alignItems: "center",
-
+        justifyContent: "center",        alignItems: "center",
     }
 });
